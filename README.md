@@ -1,2 +1,1 @@
-# ComputeProvisioning
-Professional ComputeProvisioning system with ComputeProvisioning-optimized modern-design and enterprise computeprovisioning-optimization capabilities
+.
